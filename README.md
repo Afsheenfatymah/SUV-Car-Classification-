@@ -47,6 +47,8 @@ afsheenfatymah@gmail.com
 www.linkedin.com/in/afsheen-fatima-912757321
 
 🔗 Links
+
 https://teachablemachine.withgoogle.com/models/pJsKA5QQ6/
+
 Happy classifying! 🚗💨
 
