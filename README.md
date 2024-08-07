@@ -50,7 +50,7 @@ afsheenfatymah@gmail.com
 
 www.linkedin.com/in/afsheen-fatima-912757321
 
-🔗 Links
+# 🔗 Links
 
 https://teachablemachine.withgoogle.com/models/pJsKA5QQ6/
 
