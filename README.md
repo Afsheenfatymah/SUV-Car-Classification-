@@ -23,8 +23,7 @@ The trained model was then tested to ensure accurate classification of the vehic
 
 # 🚀 How to Use
 Clone the Repository:
-
-
+https://github.com/Afsheenfatymah/SUV-Car-Classification-.git
 
 # Setup Teachable Machine:
 Visit Teachable Machine.
