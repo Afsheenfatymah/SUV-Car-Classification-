@@ -17,6 +17,7 @@ The model was trained using Teachable Machine, an easy-to-use tool by Google for
 
 Data Collection: Images of the seven SUV models were collected and labeled.
 Model Training: Images were used to train a classification model to recognize and differentiate between the SUV models.
+
 __🧪 Testing__
 The trained model was then tested to ensure accurate classification of the vehicles. Results were highly accurate, demonstrating the effectiveness of the training process.
 
