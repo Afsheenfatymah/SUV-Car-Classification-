@@ -36,7 +36,9 @@ Input new images into the model and get predictions for the SUV classification.
 
 # 📁 Repository Contents
 README.md - This file with project details.
+
 model/ - Contains files related to the trained model.
+
 images/ - Sample images used for training and testing.
 
 
