@@ -42,7 +42,9 @@ model/ - Contains files related to the trained model.
 images/ - Sample images used for training and testing.
 
 
-📬 Contact
+
+# 📬 Contact
+
 For any questions or suggestions, feel free to reach out at 
 afsheenfatymah@gmail.com
 
