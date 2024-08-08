@@ -1,24 +1,24 @@
-# 🚗 SUV Car Classification with Teachable Machine 🏆
+# 🚗 SUV Car Classification with Teachable Machine 
 This repository showcases a machine learning model built using Teachable Machine to classify seven different SUV models from the year 2012. 🎯
 
 # 📊 Dataset Overview
 The dataset used in this project consists of images of seven distinct SUV models from the year 2012. These are:
 
-* Jeep Grand Cherokee SUV 2012 🛻
-* Dodge Durango SUV 2012 🚙
-* Land Rover Range Rover SUV 2012 🌍
-* Jeep Wrangler SUV 2012 🏞️
-* Cadillac SRX SUV 2012 🚗 
-* GMC Terrain SUV 2012 🚘 
+* Jeep Grand Cherokee SUV 2012 
+* Dodge Durango SUV 2012 
+* Land Rover Range Rover SUV 2012
+* Jeep Wrangler SUV 2012 
+* Cadillac SRX SUV 2012 
+* GMC Terrain SUV 2012 
 
 # 📈 Model Training & Testing
-🛠️ __Training__
+ __Training__
 The model was trained using Teachable Machine, an easy-to-use tool by Google for creating machine learning models without requiring deep technical knowledge.
 
 Data Collection: Images of the seven SUV models were collected and labeled.
 Model Training: Images were used to train a classification model to recognize and differentiate between the SUV models.
 
-__🧪 Testing__
+__Testing__
 The trained model was then tested to ensure accurate classification of the vehicles. Results were highly accurate, demonstrating the effectiveness of the training process.
 
 # 🚀 How to Use
