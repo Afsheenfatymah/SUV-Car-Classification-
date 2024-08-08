@@ -1,5 +1,5 @@
 # 🚗 SUV Car Classification with Teachable Machine 🏆
-Welcome to the SUV Car Classification Project! This repository showcases a machine learning model built using Teachable Machine to classify seven different SUV models from the year 2012. 🎯
+This repository showcases a machine learning model built using Teachable Machine to classify seven different SUV models from the year 2012. 🎯
 
 # 📊 Dataset Overview
 The dataset used in this project consists of images of seven distinct SUV models from the year 2012. These are:
